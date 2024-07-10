@@ -3,7 +3,7 @@
 This project focuses on predicting the future stock prices of Microsoft based on historical data spanning four years. The goal is to forecast the stock prices for the next 90 days using deep learning models.
 
 ## Data
-
+this sourse data: https://finance.yahoo.com/quote/MSFT/history/
 The dataset used for this project includes historical stock prices of Microsoft collected over the past four years. The data includes daily closing prices, volume, and other relevant features that are used for training the prediction models.
 
 ## Methodology
