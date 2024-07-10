@@ -16,7 +16,7 @@ The data was preprocessed to handle missing values, normalize the features, and 
 
 ### Model Selection
 
-Several machine learning models were considered and evaluated for their predictive performance. Models include but are not limited to:
+Several Deep learning models were considered and evaluated for their predictive performance. Models include but are not limited to:
 
 - LSTM 
 
