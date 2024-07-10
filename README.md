@@ -30,10 +30,6 @@ Once trained, the models were used to predict the stock prices for the next 90 d
 
 The predicted stock prices for the next 90 days are presented, along with visualizations comparing predicted versus actual prices.
 
-## Usage
-
-To replicate or further explore this project, follow these steps:
-
 1. **Clone the Repository:**
 
 ![final_image](https://github.com/MahmoudIbrahims/CodeAlpha_Stock_prediction/assets/121377479/d713f8ec-f340-425e-b98a-4d1f2002c346)
