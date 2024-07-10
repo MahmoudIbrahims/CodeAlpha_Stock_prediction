@@ -1,5 +1,3 @@
-![final_image](https://github.com/MahmoudIbrahims/CodeAlpha_Stock_prediction/assets/121377479/d713f8ec-f340-425e-b98a-4d1f2002c346)
-
 # Stock Price Prediction for Microsoft
 
 This project focuses on predicting the future stock prices of Microsoft based on historical data spanning four years. The goal is to forecast the stock prices for the next 90 days using machine learning models.
@@ -38,3 +36,4 @@ To replicate or further explore this project, follow these steps:
 
 1. **Clone the Repository:**
 
+![final_image](https://github.com/MahmoudIbrahims/CodeAlpha_Stock_prediction/assets/121377479/d713f8ec-f340-425e-b98a-4d1f2002c346)
