@@ -1,6 +1,6 @@
 # Stock Price Prediction for Microsoft
 
-This project focuses on predicting the future stock prices of Microsoft based on historical data spanning four years. The goal is to forecast the stock prices for the next 90 days using machine learning models.
+This project focuses on predicting the future stock prices of Microsoft based on historical data spanning four years. The goal is to forecast the stock prices for the next 90 days using deep learning models.
 
 ## Data
 
